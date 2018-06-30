@@ -1,3 +1,3 @@
 # Developers-India
 
-Official DEvelopers India GitHub repo
+Official Developers India GitHub repo
