@@ -15,4 +15,4 @@
 - Please give your commits appropriate titles.
 - Describe the changes you made clearly.
 
-As we interact we just follow and abide by the [ code of conduct](https://github.com/uniphyd/welcome/blob/master/CODE_OF_CONDUCT.md).
+As we interact we just follow and abide by the [ code of conduct](https://github.com/DevsIndia/Developers-India/blob/master/CODE_OF_CONDUCT.md).
