@@ -1,6 +1,6 @@
 # Developers-India
 
-Official Developers India GitHub repository
+Official Developers India GitHub repository.
 
 Please check out the [CONTRIBUTING.md](https://github.com/DevsIndia/Developers-India/blob/master/CONTRIBUTING.md) for rules on how to contribute and the [CODE_OF_CONDUCT.md](https://github.com/DevsIndia/Developers-India/blob/master/CODE_OF_CONDUCT.md) for community guide lines.
 
